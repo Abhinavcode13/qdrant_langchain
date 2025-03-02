@@ -30,7 +30,7 @@ Ensure Python 3.8+ is installed along with `qdrant-client`, `langchain`, `numpy`
 
 5. Qdrant `Cloud` Cluster Deployment 
    
-   ![Image4](https://github.com/Abhinavcode13/qdrant_langchain/blob/main/Images/qdrant-5-cloud.png)
+   ![Image4](https://github.com/Abhinavcode13/qdrant_langchain/blob/main/Images/qdrant-6.png)
 
    This is the Qdrant UI for cloud deployment, where users set up `API` keys, choose a cluster, and select the appropriate cloud provider for hosting.
    Note: Qdrant Cloud URL: `https://cloud.qdrant.io`
