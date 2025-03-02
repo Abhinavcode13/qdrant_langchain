@@ -2,7 +2,7 @@
 This project demonstrates the integration of [Qdrant](https://qdrant.tech/) with [LangChain](https://python.langchain.com/) for building scalable vector search applications. 
 
 ## Requirements
-Ensure Python 3.8+ is installed along with `qdrant-client`, `langchain`, `numpy`, `pandas`, and `jupyter`/`colab`.
+Ensure Python 3.8+ is installed along with `qdrant-client`, `langchain`, `numpy`, `pandas`,`docker` and `jupyter`/`colab`.
 
 - **Architecture & Setup Images**
 
